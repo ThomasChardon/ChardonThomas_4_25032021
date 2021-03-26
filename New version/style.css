@@ -39,6 +39,10 @@ a:hover {
     position: relative;
 }
 
+#bloc-0 {
+    width:700px;
+}
+
 .bloc .container {
     padding-left: 0;
     padding-right: 0;
@@ -655,7 +659,7 @@ a {
 }
 
 .container {
-    max-width: 1000px;
+    max-width: 100%;
 }
 
 .hero-bloc-text {
@@ -780,7 +784,7 @@ h4 {
 
 .btn-atomic-tangerine {
     background: #F3976C;
-    color: #FFFFFF!important;
+    color: #000000!important;
 }
 
 .btn-atomic-tangerine:hover {
